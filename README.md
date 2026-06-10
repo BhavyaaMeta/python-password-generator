@@ -34,10 +34,13 @@ A Python-based Password Generator that creates secure and random passwords using
 
 ## Project Structure
 
+```text
 python-password-generator/
 │
 ├── password_generator.py
 └── README.md
+```
+
 
 ## How to Run
 
